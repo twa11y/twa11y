@@ -18,7 +18,7 @@ body:
     id: screenshot
     attributes:
       label: Please add a screenshot here (if applicable)
-      placeholder: Adding a screenshot helps us locating the issue quicker
+      placeholder: Attach one or multiple screenshots by dragging & dropping, pasting them, or clicking the bar below the text area "Attach files..." and selecting a file
     validations:
       required: false
   - type: textarea
