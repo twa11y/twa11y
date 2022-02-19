@@ -18,7 +18,7 @@ body:
     id: screenshot
     attributes:
       label: Please add a screenshot here (if applicable)
-      placeholder: Attach one or multiple screenshots by dragging & dropping, pasting them, or clicking the bar below the text area "Attach files..." and selecting a file
+      placeholder: Attach one or multiple screenshots by dragging & dropping, or pasting them. Alternatively, click into the text field, then click the bar below the text area "Attach files..." and select a file
     validations:
       required: false
   - type: textarea
