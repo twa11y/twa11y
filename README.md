@@ -21,3 +21,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSePIsB2FeoPOdNUlXPNE7EOGzgtP5h625BwgLUK
 With attachment (needs Google Sign in)
 
 https://docs.google.com/forms/d/e/1FAIpQLSfhgYdDfsenFYYXiWABxm5e-NNPBAKF2KkH_XzT0OqhLxIF3g/viewform?usp=sf_link
+
+
+Twa11y is a play on the abbreviation "a11y," meaning "accessibility" specifically when referring to software accessibility. Ours means "Taiwan Accessibility," but sounds like "Twally" and so I also like to think of it as "Taiwan Ally!"
