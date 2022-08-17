@@ -11,3 +11,13 @@ Social-good websites are things such as government or hospital websites.
 This repository is used primarily to track web accessibility issues we find, tracked under the "Issues" tab, above. 
 
 Demo for how to find some common accessability issues: https://youtu.be/U2QZEaqgQfU
+
+If you've found an accessibility issue on a Taiwan social good website, feel free to make an issue here, or use one of our Google forms!
+
+Without attachment
+
+https://docs.google.com/forms/d/e/1FAIpQLSePIsB2FeoPOdNUlXPNE7EOGzgtP5h625BwgLUKOnxR1UqIuA/viewform?usp=sf_link
+
+With attachment (needs Google Sign in)
+
+https://docs.google.com/forms/d/e/1FAIpQLSfhgYdDfsenFYYXiWABxm5e-NNPBAKF2KkH_XzT0OqhLxIF3g/viewform?usp=sf_link
