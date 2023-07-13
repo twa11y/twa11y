@@ -1,7 +1,7 @@
 name: Accessibility issue
 description: Report an accessibility issue with a Taiwanese public good website
 title: "[a11y]: "
-labels: ["bug", "triage"]
+labels: ["bug", "triage", "a11y"]
 body:
   - type: markdown
     attributes:
