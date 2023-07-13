@@ -1,0 +1,30 @@
+name: Security issue
+description: Report a security issue with a Taiwanese public good website
+title: "[infosec]: "
+labels: ["bug", "triage", "infosec"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a security issue! See the Readme for additional information.
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What is the security issue?
+      placeholder: Tell us what is wrong with the site!
+    validations:
+      required: true
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: Please add a screenshot here (if applicable)
+      placeholder: Activate the text field by clicking it or otherwise navigating into it. Then, attach one or multiple screenshots by dragging & dropping, pasting them, or clicking the bar below the text area "Attach files..." and selecting a file.
+    validations:
+      required: false
+  - type: textarea
+    id: url
+    attributes:
+      label: At what URL can the issue be seen, if publicly accessible?
+      placeholder: Make sure to add a starting URL from where you can reproduce the issue 
+    validations:
+      required: false
